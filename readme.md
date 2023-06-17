@@ -3,10 +3,10 @@
 
 First I install ssh in linux computer.
 - Open the terminal application.
-- Type the command below:
-- $ sudo apt-get update
-- $ sudo apt-get upgrade
-- $ sudo apt-get install openssh-client
+  Type the command below:
+    $ sudo apt-get update
+    $ sudo apt-get upgrade
+    $ sudo apt-get install openssh-client
 
 - To Enable SSH Server on Linux
 - Open your terminal application
